@@ -14,7 +14,7 @@ GITHUB_REPO_URL = "https://github.com/mohammedarifsn12/multiple_disease_predicti
 MODEL_FILES = {
     "diabetes": "diabetes.sav",
     "heart": "heart.sav",
-    "parkinson": "parkinson.sav"
+    "parkinson": "parkinsons.sav"
 }
 
 # Download function
